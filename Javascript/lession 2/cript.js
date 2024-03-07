@@ -22,9 +22,10 @@
 // ]
 //   console.log('family:', family)
 
-let a = 5 , b='5';
-console.log('compare a, b: ', a===b)
+let a = 5, b = '5';
 
-// empty , null, undefined
 
-  
+console.log('compare a, b: ', a === b)
+
+
+
